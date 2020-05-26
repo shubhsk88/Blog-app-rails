@@ -1,4 +1,5 @@
 class TagsController < ApplicationController
+  
   def show
     @tag = Tag.find(params[:id])
   end
@@ -9,6 +10,7 @@ class TagsController < ApplicationController
 
   def destroy
     @tag = Tag.find(params[:id])
+
     @tag.destroy
 
     flash.notice = "Tag '#{@tag.name}' Destroyed!"
