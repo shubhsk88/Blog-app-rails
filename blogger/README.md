@@ -4,9 +4,17 @@ This is the webpage to post the blog with the functionalities of commenting, tag
 
 ## Live Link
 
+## Screenshot
+
+![Screenshot_2020-05-26 Blogger](https://user-images.githubusercontent.com/60085697/82945217-ef69d500-9f72-11ea-9e13-397ab48bb853.png)
+
 ## Built With
 
-- Ruby on Rails
+- Ruby on Rails,
+- Ruby,
+- Rubocop,
+- Stickler
+- VS Code
 
 ## Authors
 

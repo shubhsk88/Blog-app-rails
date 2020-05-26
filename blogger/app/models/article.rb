@@ -1,4 +1,4 @@
-# rubcop:disable Style/SymbolProc
+# rubocop:disable Style/SymbolProc
 class Article < ApplicationRecord
   has_many :comments
 
@@ -8,7 +8,7 @@ class Article < ApplicationRecord
 
   validates_attachment_content_type :image, content_type: ['image/jpg', 'image/jpeg', 'image/png']
   def tag_list
-    self.tags.collect do |tag|
+    tags.collect do |tag|
       tag.name
     end.join(', ')
   end
@@ -20,4 +20,4 @@ class Article < ApplicationRecord
   end
 end
 
-# rubcop:enable Style/SymbolProc
+# rubocop:enable Style/SymbolProc
