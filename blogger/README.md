@@ -1,24 +1,33 @@
-# README
+# Blogger App Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the webpage to post the blog with the functionalities of commenting, tagging, and uploading the images. This project is built using the Ruby on rails framework
 
-Things you may want to cover:
+## Live Link
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Authors
 
-* Database creation
+👤 **Rossiel Carranza**
 
-* Database initialization
+- Github: [@RossielCS](https://github.com/RossielCS)
+- Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza/) 
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Shubham Singh**
 
-* Deployment instructions
+- Github: [@shubhsk88](https://github.com/shubhsk88)
+- Twitter: [@shubhski](twitter.com/shubski)
+- Linkedin: [linkedin](https://www.linkedin.com/in/shubham-singh-130349140/)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
